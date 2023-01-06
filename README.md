@@ -10,4 +10,4 @@ More projects will appear here over 2023, so be sure to come back sometimes.
 
 ***Kaggle House Prices competition***  (regression task)
 
-<sub>https://colab.research.google.com/github/TomasCajan/DataScience/blob/main/P1_Regression_HousePrices_Kaggle.ipynb</sub>
+<sub>https://colab.research.google.com/github/TomasCajan/DataScience/blob/main/P1_HousePrices_Kaggle.ipynb</sub>
