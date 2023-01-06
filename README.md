@@ -6,7 +6,7 @@ This repository is focused on Python in various Machine Learning tasks
 
 More projects will appear here over 2023, so be sure to come back sometimes
 
-Finished projects :
+**Finished projects :**
 
 Kaggle House Prices competition 
 
