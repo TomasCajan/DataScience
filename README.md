@@ -6,8 +6,8 @@ This repository is focused on Python in various Machine Learning tasks.
 
 More projects will appear here over 2023, so be sure to come back sometimes.
 
-**Finished projects :**
+*Finished projects :*
 
-***Kaggle House Prices competition (regression task)*** 
+***Kaggle House Prices competition***  (regression task)
 
 https://colab.research.google.com/github/TomasCajan/DataScience/blob/main/P1_Regression_HousePrices_Kaggle.ipynb
