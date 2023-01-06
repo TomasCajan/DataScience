@@ -4,6 +4,6 @@ Here you will find projects that I made to learn as much as possible on my way t
 
 More projects will appear here over 2023, so be sure to come back sometimes
 
-Finshed projects :
+Finished projects :
 
-Kaggle House Prices competition
+Kaggle House Prices competition   https://colab.research.google.com/github/TomasCajan/DataScience/blob/main/P1_Regression_HousePrices_Kaggle.ipynb
