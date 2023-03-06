@@ -1,6 +1,6 @@
 ## Welcome to my DataScience repository
 
-Here you will find projects that I made on my way to learn and become a **Junior Data Scientist**. 
+Here you will find projects that I made on my way to learn and become a **Data Scientist**. 
 
 This repository is focused on Python in various Machine Learning tasks.
 
