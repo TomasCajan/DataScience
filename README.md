@@ -1,6 +1,6 @@
 ## Welcome to my DataScience repository
 
-These are projects that I made on my way to become a **Machine Learning Engineer** and also to learn new things by doing.
+These are projects that I made on my way to become a **Machine Learning Engineer** and to learn new things by doing.
 
 This repository is focused on Python in various Machine Learning tasks.
 
